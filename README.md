@@ -1,5 +1,4 @@
-click on myapp to see the code.
-
+ 
 # MUJ-Unite
    introduction->   “MUJ-Unite” will provide a common platform where teachers, alumni and students of Manipal University Jaipur where they can interact and    share valuable insights with each other. This website aims  to improve senior junior interaction in our college between the present students as well    as with  the alumni of our college which will provide the currently enrolled students clarity regarding with  respect to their future prospects.        Also, students will be able to connect to teachers who have not  taught them and of other departments as well. 
   
