@@ -1,7 +1,7 @@
 click on myapp to see the code.
 
-# BV-Unite
-   introduction->   “BV-Unite” will provide a common platform where teachers, alumni and students of Banasthali  Vidyapith where they can interact and    share valuable insights with each other. This website aims  to improve senior junior interaction in our college between the present students as well    as with  the alumni of our college which will provide the currently enrolled students clarity regarding with  respect to their future prospects.        Also, students will be able to connect to teachers who have not  taught them and of other departments as well. 
+# MUJ-Unite
+   introduction->   “MUJ-Unite” will provide a common platform where teachers, alumni and students of Manipal University Jaipur where they can interact and    share valuable insights with each other. This website aims  to improve senior junior interaction in our college between the present students as well    as with  the alumni of our college which will provide the currently enrolled students clarity regarding with  respect to their future prospects.        Also, students will be able to connect to teachers who have not  taught them and of other departments as well. 
   
   “BV-Unite” is a web application which will help the teachers, alumni and students of Banasthali Vidyapith to connect
    and interact with each other easily. 
@@ -16,36 +16,29 @@ click on myapp to see the code.
   Database:- sqlite
   Web Framework Used:- Django Web Framework.
   
-  first page:
-  ![Screenshot (374)](https://user-images.githubusercontent.com/77569905/117269746-2c726300-ae76-11eb-90f5-f7a2c084e2d5.png)
+  first page: <img width="1682" height="702" alt="image" src="https://github.com/user-attachments/assets/11048c22-8316-4639-88ca-e0f7684bfb11" />
+
   
   signup:
-  ![Screenshot (375)](https://user-images.githubusercontent.com/77569905/117270013-6ba0b400-ae76-11eb-9559-1852a62a81bf.png)
-  
-  login:
-  ![Screenshot (376)](https://user-images.githubusercontent.com/77569905/117270018-6d6a7780-ae76-11eb-8785-bab074e48208.png)
-  
-  home page:
- ![home page](https://user-images.githubusercontent.com/77569905/117268340-cdf8b500-ae74-11eb-910d-a8efa73d9328.png)
+  <img width="801" height="769" alt="image" src="https://github.com/user-attachments/assets/4e4d24c6-24cc-40c6-a476-7b18c84cdd11" />
+  <img width="880" height="899" alt="image" src="https://github.com/user-attachments/assets/36a0e0b9-0318-4831-ba93-722dd202f088" />
  
   contacts:
-  ![Screenshot (377)](https://user-images.githubusercontent.com/77569905/117270048-72c7c200-ae76-11eb-8ee5-f15674f5e177.png)
+ <img width="844" height="705" alt="image" src="https://github.com/user-attachments/assets/2b59ded1-ad1b-48df-b028-ad2d892c52fe" />
   
   messages:
-  ![Screenshot (378)](https://user-images.githubusercontent.com/77569905/117270704-1ca74e80-ae77-11eb-9cd7-ba68c1b3efc2.png)
+ <img width="1576" height="801" alt="image" src="https://github.com/user-attachments/assets/61e71678-5547-4627-9796-f5f5dde282d7" />
   
   my profile:
-  ![Screenshot (379)](https://user-images.githubusercontent.com/77569905/117270724-229d2f80-ae77-11eb-9263-a69713cfcfa3.png)
+ <img width="957" height="823" alt="image" src="https://github.com/user-attachments/assets/7b04e449-1eb8-48bf-a1b9-974b41bb5afb" />
   
   announcement:
-  ![Screenshot (380)](https://user-images.githubusercontent.com/77569905/117270734-24ff8980-ae77-11eb-80d0-ee9cdec12d4f.png)
+ <img width="1572" height="769" alt="image" src="https://github.com/user-attachments/assets/c153be4b-9a34-42dd-a716-949e09cb31e5" />
   
   change Password:
-  ![Screenshot (381)](https://user-images.githubusercontent.com/77569905/117270742-2761e380-ae77-11eb-8e3e-f025851e9724.png)
-  
+   <img width="666" height="651" alt="image" src="https://github.com/user-attachments/assets/8d38b497-afa1-4056-83da-9951f7ad5bf7" />
+
   contact_us:
   ![Screenshot (382)](https://user-images.githubusercontent.com/77569905/117271602-fafa9700-ae77-11eb-8219-7160b45be7c8.png)
   
-  About us:
-  ![image](https://user-images.githubusercontent.com/77569905/117272008-617fb500-ae78-11eb-939e-b537f41b454f.png)
 
